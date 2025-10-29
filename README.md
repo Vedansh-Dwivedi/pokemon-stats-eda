@@ -1,9 +1,9 @@
-# pokemon-stats-eda
+# Pokemon-stats-eda
 Exploratory Data Analysis on a dataset of 721 Pokémon using Python (Pandas, NumPy, Matplotlib, Seaborn).
 
 ## Overview
 This project performs an Exploratory Data Analysis on a dataset of 721 Pokémon.  
-The goal is to analyze statistical patterns, visualize attribute distributions, and understand relationships between features such as Attack, Defense, Speed, Type, and Legendary status. The analysis is conducted in a Jupyter Notebook using Python.
+The goal is to analyze statistical patterns, visualize attribute distributions, and understand relationships between features such as Attack, Defense, Speed, Type, and Legendary status. The analysis is conducted in a Google Colab Notebook using Python.
 
 ---
 
@@ -22,7 +22,7 @@ The goal is to analyze statistical patterns, visualize attribute distributions, 
 | Programming | Python |
 | Data Analysis | Pandas, NumPy |
 | Visualization | Matplotlib, Seaborn |
-| Environment | Jupyter Notebook |
+| Environment | Jupyter Notebook/Google Colab |
 
 ---
 
@@ -41,7 +41,7 @@ The goal is to analyze statistical patterns, visualize attribute distributions, 
 - Strong correlations observed between Attack, Sp. Attack, and overall stats  
 - Speed distribution shows clear variation across specific types  
 
-(Your notebook visuals and outputs will support these findings.)
+(Notebook visuals and outputs will support these findings.)
 
 ---
 
@@ -56,7 +56,6 @@ The goal is to analyze statistical patterns, visualize attribute distributions, 
 ## How to Run This Project
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/pokemon-stats-eda.git
 
 # Navigate to the project directory
 cd pokemon-stats-eda
