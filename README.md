@@ -49,7 +49,7 @@ The goal is to analyze statistical patterns, visualize attribute distributions, 
 | File | Description |
 |------|-------------|
 | `Pokemon_Stats_EDA.ipynb` | Jupyter Notebook with full analysis |
-| Dataset file | (If included) Raw Pokémon data used for analysis |
+| `Pokemon.csv` | Dataset file |
 
 ---
 
@@ -66,3 +66,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 
 # Launch the notebook
 jupyter notebook/google colab
+
+
+# Resources
+- Dataset : https://www.kaggle.com/datasets/abcsds/pokemon
