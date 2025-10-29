@@ -48,7 +48,7 @@ The goal is to analyze statistical patterns, visualize attribute distributions, 
 ## Files Included
 | File | Description |
 |------|-------------|
-| `Pokemon_Stats_EDA.ipynb` | Jupyter Notebook with full analysis |
+| `Pokemon_Stats_EDA.ipynb` | Notebook with full analysis |
 | `Pokemon.csv` | Dataset file |
 
 ---
