@@ -56,6 +56,7 @@ The goal is to analyze statistical patterns, visualize attribute distributions, 
 ## How to Run This Project
 ```bash
 # Clone the repository
+https://github.com/Vedansh-Dwivedi/pokemon-stats-eda.git
 
 # Navigate to the project directory
 cd pokemon-stats-eda
